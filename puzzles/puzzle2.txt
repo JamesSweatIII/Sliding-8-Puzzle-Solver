@@ -1,0 +1,3 @@
+502413768
+The number of steps to the solution: 13
+Difficulty: Medium 

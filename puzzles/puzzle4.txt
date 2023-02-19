@@ -1,0 +1,3 @@
+867254301
+The number of steps to the solution: 31
+Difficulty: Hardest

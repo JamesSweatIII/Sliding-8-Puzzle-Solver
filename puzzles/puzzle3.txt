@@ -1,0 +1,3 @@
+364125780
+The number of steps to the solution: 18
+Difficulty: Hard

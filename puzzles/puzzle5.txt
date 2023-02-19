@@ -1,0 +1,3 @@
+216307458
+The number of steps to the solution: N/A
+Difficulty: Impossible 
