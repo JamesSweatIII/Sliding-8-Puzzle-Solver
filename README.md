@@ -79,4 +79,3 @@ If the puzzle is not solvable, the program outputs unsolvable.
 Solving puzzle ...
 Unsolvable
 ```
-
