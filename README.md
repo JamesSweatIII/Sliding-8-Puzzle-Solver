@@ -1,4 +1,4 @@
-# Sliding-8-Puzzle-Solver
+# Sliding 8-Puzzle Solver
 #### (September 24, 2022)
 #### James E. Sweat III
 
