@@ -66,7 +66,7 @@ int main(int argc, char *argv[]) {
 
     } else {
 
-        cout << "Impossible" << endl; // prints a message indicating that the puzzle is not solvable
+        cout << "Unsolvable" << endl; // prints a message indicating that the puzzle is not solvable
         file.close();
     }
     return 0;
