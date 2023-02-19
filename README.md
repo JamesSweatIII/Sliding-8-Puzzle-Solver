@@ -1,4 +1,5 @@
 # Sliding-8-Puzzle-Solver
+#### (September 24, 2022)
 
 This program solves a 3x3 sliding puzzle using breadth-first search algorithm. It takes an input file containing the starting state of the puzzle and outputs the shortest path to the goal state.
 
