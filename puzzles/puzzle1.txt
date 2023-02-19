@@ -1,0 +1,3 @@
+013425786
+# The number of steps to the solution: 4
+Difficulty: Easy
