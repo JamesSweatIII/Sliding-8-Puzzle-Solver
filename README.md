@@ -79,3 +79,12 @@ If the puzzle is not solvable, the program outputs unsolvable.
 Solving puzzle ...
 Unsolvable
 ```
+## Exceptions
+
+The following exceptions may be thrown during the execution of the program:
+
+- `runtime_error`: Thrown when the input file cannot be opened.
+
+- `invalid_argument`: Thrown when the input puzzle is not a valid length (9) or does not contain all numbers.
+
+If any of these exceptions are thrown during the execution of the program, the program will terminate immediately.
