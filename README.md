@@ -5,22 +5,23 @@ This program solves a 3x3 sliding puzzle using breadth-first search algorithm. I
 ## Prerequisites
 
 - C++ compiler
+- Access to terminal
 
 ## Installation
 
 1. Clone this repository.
 
-``` bash
+``` 
 git clone https://github.com/JamesSweatIII/Sliding-8-Puzzle-Solver.git
 ```
 
 2. Navigate to the project directory.
 
-``` bash
+``` 
 cd Sliding-8-Puzzle-Solver
 ```
 3. Compile the program with Makefile.
-``` bash
+``` 
 Make
 ```
 ## Usage
@@ -32,7 +33,7 @@ Make
 with 9 digits representing the tiles of the puzzle, with 0 representing the empty space.
 
 Example:
-``` bash
+``` 
 ./a.out puzzles/puzzle1.txt
 ```
 `puzzle1.txt` contains:
